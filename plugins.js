@@ -1,6 +1,7 @@
 // Contact form plugin for No Limits Tech Repair site
 
-const CONTACT_EMAIL = "info@nolimitts.tech"; // TODO: replace with your real email address
+// Use your business email here
+const CONTACT_EMAIL = "bernardrandolph85@gmail.com";
 
 export function initContactForm() {
   const form = document.getElementById('contact-form');
